@@ -1,10 +1,10 @@
-
 def most_common_value(number_list):
 <<<<<<< HEAD
 
 =======
     """ returns the most common element of the list
     """
+<<<<<<< HEAD
 >>>>>>> dbafd3956e169a8200f881ebe025f20eb5b64820
     frequency_index = {}
     max_frequency = -1
@@ -29,3 +29,6 @@ if __name__ == "__main__":
 =======
 ```
 >>>>>>> dbafd3956e169a8200f881ebe025f20eb5b64820
+=======
+  
+>>>>>>> 6c831d713ebc5092e0f1ffb53d24c4829fb19c31
