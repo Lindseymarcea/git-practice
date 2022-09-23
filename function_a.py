@@ -1,14 +1,11 @@
 def most_common_value(number_list):
-<<<<<<< HEAD
 
-=======
     """ returns the most common element of the list
     """
    #HIYA HERE'S JAIME'S VERSION. 
 def most_common_value(number_list):
     """ returns the most common element of the list
     """
->>>>>>> bb6ae4fa94c4e6cdce4c6bf2a38a01d4d4f76090
     frequency_index = {}
     max_frequency = -1
     most_common_value = None
