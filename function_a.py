@@ -14,9 +14,9 @@ def most_common_value(number_list):
         else:
             frequency_index[num] = 1
 
-        if max_frequency < frequency_index[num]:
-            max_frequency = frequency_index[num]
-            most_common_value = num
+        # if max_frequency < frequency_index[num]:
+        #     max_frequency = frequency_index[num]
+        #     most_common_value = num
 
     return most_common_value
 if __name__ == "__main__":
